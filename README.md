@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @momoe-nomoto
+- 👋 Hi, I’m @momoenomoto
 - 👀 I’m interested in robots.
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on hardware.
