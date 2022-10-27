@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @momoenomoto
-- 👀 I’m interested in different programming languages and robots.
+- 👀 I’m interested in the intersection between hardware and software. 
 - 🌱 I’m currently learning a lot of things.
 - 📫 How to reach me momoe.nomoto.mn@gmail.com
 
